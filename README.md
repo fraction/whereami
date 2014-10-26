@@ -4,14 +4,13 @@ This is a quick one-liner that tells you who and where you are in a color-coded 
 
 ![](http://i.imgur.com/P4MYPwH.png)
 
-## installation
+## Installation
 
 ```sh
-git clone https://github.com/christianbundy/whereami.git && cd whereami
-sudo cp whereami /usr/local/bin
+sudo curl -o /usr/local/bin/whereami https://raw.githubusercontent.com/christianbundy/whereami/master/whereami
 ```
 
-## usage
+## Usage
 
 The default usage is pretty difficult to screw up.
 
@@ -24,3 +23,11 @@ You can get a little bit trickier though with `pbcopy`. To copy your current pat
 ```sh
 whereami | pbcopy
 ```
+
+## Support
+
+Please [open an issue](https://github.com/christianbundy/whereami/issues/new) for questions and concerns.
+
+## Contributing
+
+Fork the project, commit your changes, and [open a pull request](https://github.com/christianbundy/whereami/compare/).
