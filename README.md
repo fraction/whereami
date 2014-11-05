@@ -5,8 +5,8 @@ This is a quick one-liner that tells you who and where you are in a color-coded 
 ## Installation
 
 ```sh
-sudo curl -o /usr/local/bin/whereami https://raw.githubusercontent.com/fraction/whereami/master/whereami
-sudo chmod +x /usr/loca/bin/whereami
+sudo curl -o  /usr/local/bin/whereami https://raw.githubusercontent.com/fraction/whereami/master/whereami
+sudo chmod +x /usr/local/bin/whereami
 ```
 
 ## Usage
