@@ -6,6 +6,7 @@ This is a quick one-liner that tells you who and where you are in a color-coded 
 
 ```sh
 sudo curl -o /usr/local/bin/whereami https://raw.githubusercontent.com/fraction/whereami/master/whereami
+sudo chmod +x /usr/loca/bin/whereami
 ```
 
 ## Usage
